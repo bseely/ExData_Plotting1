@@ -1,7 +1,7 @@
 ## What's new in this repo
 
-The R scripts are in the root directory
-The PNG images are in the figure subdirectory
+The R scripts are in the root directory. 
+The PNG images are in the *figure* subdirectory
 
 ## Introduction
 
